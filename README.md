@@ -1,4 +1,4 @@
-# gtk-gnutella-in-docker
+# gtk-gnutella in docker
 
 how to build:
 
